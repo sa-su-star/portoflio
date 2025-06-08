@@ -104,10 +104,10 @@ export default function About() {
               <Code className="h-5 w-5 text-primary mr-2" />
               <span>2+ Years Experience</span>
             </div>
-            <div className="flex items-center">
+            {/* <div className="flex items-center">
               <GraduationCap className="h-5 w-5 text-primary mr-2" />
               <span>Computer Science</span>
-            </div>
+            </div> */}
             <div className="flex items-center">
               <Briefcase className="h-5 w-5 text-primary mr-2" />
               <span>20+ Projects Delivered</span>
